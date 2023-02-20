@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rajneesh-y I have 1.5 year of python. 
+- 👋 Hi, I’m @rajneesh-y I have 2 year of python. 
 - 🌟I worked on different data science libraries of python like pandas, numpy,matplotlib and BeautifulSoup.
 - 👋 I am also working on python libraries to work with excel i.e. openpyxl,xlwings and win32 and for the databases I have used postgresql,mangodb and mysql.
 - ✡️ Exprience Of developing django web application for performing some string manipulation fuctionality(such as Remove Punctuations, convert string to all uppercase,extraspace remover and also  removing new line). All the fuctionality of the application works one bye one and simultaneously as per user requirements.
