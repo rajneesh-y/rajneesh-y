@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rajneesh-y I have 2 year of python. 
 - 🌟I worked on different data science libraries of python like pandas, numpy,matplotlib and BeautifulSoup.
-- 👋 I am also working on python libraries to work with excel i.e. openpyxl,xlwings and win32 and for the databases I have used postgresql,mangodb and mysql.
+- 👋 I am also working on python libraries to work with excel i.e. openpyxl,xlwings and win32 and for the databases I have used postgresql,mongodb and mysql.
 - ✡️ Exprience Of developing django web application for performing some string manipulation fuctionality(such as Remove Punctuations, convert string to all uppercase,extraspace remover and also  removing new line). All the fuctionality of the application works one bye one and simultaneously as per user requirements.
 - 🔯 The django web application is deployed on the AWS EC2(i.e ubuntu) instance using Nginx and gunicorn and running on the i.p address http://43.205.111.217/ .
 - 👀 I’m interested in Data Science and Exploring in this field.
